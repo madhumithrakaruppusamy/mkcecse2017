@@ -3,16 +3,12 @@ void main()
 {
 int n;
 scanf("%d",&n);
-if(n<0)
+if(n%2==0)
 {
-printf("negative");
+  printf("even");
 }
-ifelse(n>0)
-{
-printf("possitive");
-}
-else
-{
-printf("zero");
-}
-}
+  else
+  {
+    printf("odd");
+  }
+}  
