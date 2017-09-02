@@ -9,6 +9,6 @@ if (char == a||e||i||o||u||A||E||I||O||U||)
 }
   else
   {
-    printf("consonent");
+    printf("consonant");
   }
 }
