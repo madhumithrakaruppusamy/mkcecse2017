@@ -1,21 +1,19 @@
 #include <stdio.h>
 void main()
 {
-    int n;
-    scanf("%d",&n);
-    if(n%4===0)
-    {
-        printf("leap year");
-    }
-    else
-    {
-        printf("not leap year")
-    }
-}  
+    char c;
+    scanf("%c",&c);
+    if((ch==||'a') (ch==||'e') (ch==||'i') (ch==||'o') (ch==||'u') (ch==||'A')(ch==||'E') (ch==||'I') (ch==||'O') (CH==||'U')
+       {
+           printf("vowel");
+       }
+       else
+       {
+           printf("consonant");
+       }
+       }    
     
-    
-    
-    
+     
     
     
     
