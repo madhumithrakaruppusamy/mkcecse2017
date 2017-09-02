@@ -2,8 +2,27 @@
 void main()
 {
     int n;
-    for(num=0;n<5;n++)
+    if(n%4===0)
     {
-        printf("hello");
+        printf("leap year");
     }
-}
+    else
+    {
+        printf("not leap year")
+    }
+}  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+ 
+      
