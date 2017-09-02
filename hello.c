@@ -1,20 +1,14 @@
 #include <stdio.h>
 void main()
 {
-    char c;
-    scanf("%c",&c);
-    if((ch==||'a') (ch==||'e') (ch==||'i') (ch==||'o') (ch==||'u') (ch==||'A')(ch==||'E') (ch==||'I') (ch==||'O') (CH==||'U')
-       {
-           printf("vowel");
-       }
-       else
-       {
-           printf("consonant");
-       }
-       }    
-    
-     
-    
+    int n,i,sum=0;
+    scanf("%d",&i);
+    for(i=1;i<=n;i++)
+    sum=sum+i;
+    {
+        printf("%d",sum);
+    }
+}
     
     
     
