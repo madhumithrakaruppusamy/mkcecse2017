@@ -10,11 +10,11 @@ printf("negative");
 }
 ifelse(n>0)
 {
-printf("possitive")
+printf("possitive");
 }
 else
 {
-printf("zero")
+printf("zero");
 }
 getch();
 }
